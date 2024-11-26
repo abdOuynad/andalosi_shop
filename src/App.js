@@ -8,6 +8,7 @@ import { Routes,Route} from 'react-router-dom';
 //import Compenent from "./compenent/compenent"
 import Prod from "./compenent/products/productCompenent"
 import Header from "./compenent/header/header.compenent"
+import Head from "./compenent/head/head.compenent"
 import Footer from "./compenent/footer/footer.compenent"
 import Checkout from "./compenent/checkout/checkout.compenent"
 import Thank from "./compenent/thank/thank.compenant"

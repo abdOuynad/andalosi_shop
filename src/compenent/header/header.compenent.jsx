@@ -32,6 +32,14 @@ const header =()=>{
                 
             </div>   
         </div>
+        <div id="mobile-navbar" class="hidden"> 
+        <nav class="fixed z-50 top-mobile-nav left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col bg-blue-50 bg-opacity-95 w-full h-full text-center pt-8 roboto-regular">
+            <a href="/" class="py-5 hover:text-orange-400 transition-all">الرئيسية</a>
+            <a href="/livraison" class="py-5 hover:text-orange-400 transition-all">خدمة التوصيل</a>
+            <a href="/shop" class="py-5 hover:text-orange-400 transition-all">منتجاتنا</a>
+            <a href="/contact" class="py-5 hover:text-orange-400 transition-all">اتصل بنا</a>
+        </nav>
+    </div>
     </header>
         </div>
     )
